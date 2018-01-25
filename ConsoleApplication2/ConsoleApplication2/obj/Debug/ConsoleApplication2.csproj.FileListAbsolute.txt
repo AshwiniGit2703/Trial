@@ -1,1 +1,6 @@
 \\userprofiles01\XDdata01\AR043066\Desktop\GIT repo\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+\\userprofiles01\XDdata01\AR043066\Desktop\GIT repo\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+\\userprofiles01\XDdata01\AR043066\Desktop\GIT repo\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+\\userprofiles01\XDdata01\AR043066\Desktop\GIT repo\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+\\userprofiles01\XDdata01\AR043066\Desktop\GIT repo\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+\\userprofiles01\XDdata01\AR043066\Desktop\GIT repo\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
